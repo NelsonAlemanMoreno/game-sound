@@ -1,14 +1,14 @@
 ## game-sound
 MSCH-G 320, November 2022
 
-#Description
+# Description
 Assignments for IU bloomington MSCH-G 320 Course.
 
 Assignment 1: Physics Catapult sound effects (Wood)
 Assignment 2: Musical genre (Rock, EDM, Punk)
 Assignment 3: Environmental Sound & Ambient Music (Desert)
 
-#Implimentation
+# Implimentation
 Sound files are in use within **Construct 3** games. Download .c3p and follow link for testing
 https://editor.construct.net/
 
