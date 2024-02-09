@@ -16,10 +16,10 @@ Assignment 3: Environmental Sound & Ambient Music (Desert)
 Sound files are in use within **Construct 3** games. Download .c3p and follow link for testing
 https://editor.construct.net/
 
-References
-https://library.prosoundeffects.com/tracks
-Use of any original sound effects must follow ProSoundEffects accrediting laws and not used for commercial porposes.
-Use of editted sound/music within this repo must accredit Nelson Aleman-moreno and/or ProSoundEffects.
+##References
+https://www.hooktheory.com/theorytab
+
+https://www.pianoscales.org/major.html
 
 ## resources
 
@@ -28,6 +28,10 @@ Reason 11
 adobe audition 
 
 https://sfbgames.itch.io/chiptone
+
+https://library.prosoundeffects.com/tracks
+Use of any original sound effects must follow ProSoundEffects accrediting laws and not used for commercial porposes.
+Use of editted sound/music within this repo must accredit Nelson Aleman-moreno and/or ProSoundEffects.
 
 
 Created by: Nelson Aleman-Moreno
