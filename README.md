@@ -16,7 +16,7 @@ Assignment 3: Environmental Sound & Ambient Music (Desert)
 Sound files are in use within **Construct 3** games. Download .c3p and follow link for testing
 https://editor.construct.net/
 
-##References
+## References
 
 https://www.hooktheory.com/theorytab
 
