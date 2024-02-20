@@ -34,7 +34,22 @@ https://sfbgames.itch.io/chiptone
 
 https://library.prosoundeffects.com/tracks
 Use of any original sound effects must follow ProSoundEffects accrediting laws and not used for commercial porposes.
-Use of editted sound/music within this repo must accredit Nelson Aleman-moreno and/or ProSoundEffects.
+
+
+
+
+
+# Game Art
+
+Assignment A1: Pixel Pastiche
+
+Assignment A2: Vector UX/UI redesign
+
+## Implimentation
+Art spirte are Implimented in use within **Construct 3** games. Download .c3p and follow link for testing
+https://editor.construct.net/
+
+https://www.piskelapp.com/
 
 
 Created by: Nelson Aleman-Moreno
