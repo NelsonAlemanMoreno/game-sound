@@ -46,7 +46,8 @@ Assignment A1: Pixel Pastiche
 Assignment A2: Vector UX/UI redesign
 
 ## Implimentation
-Art spirte are Implimented in use within **Construct 3** games. Download .c3p and follow link for testing
+Art spirte are Implimented in use within **Construct 3** games. Download .c3p and follow link for testing. Pixel Art made in piskelbrowser.
+
 https://editor.construct.net/
 
 https://www.piskelapp.com/
